@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Top-Down/Scenes/Section1_0.unity
+    guid: bb2f66bcfdd82a546b868c523bac463a
+  - enabled: 1
+    path: Assets/Scenes/Level1_1.unity
+    guid: cf7eccdb2ca41dd4794f39a8bab9b12e
+  - enabled: 1
+    path: Assets/Scenes/Level1_1_Boss.unity
+    guid: ec97aa24067c33c4aaf267dd4a2927fc
+  - enabled: 1
+    path: Assets/Scenes/BeachDayToNight.unity
+    guid: e1509d3b4001a2c49bcc8e7c953b4c79
+  - enabled: 1
+    path: Assets/Scenes/Level1_2.unity
+    guid: c4a45a693bcd9504abde757ce7487f9e
+  - enabled: 1
+    path: Assets/Scenes/Level1_2_Boss.unity
+    guid: f844c43722c1a0944934b7116a2f93c2
+  - enabled: 1
+    path: Assets/Top-Down/Scenes/Section1_1.unity
+    guid: f02efe263e623e041b8ebc8c2d981c0d
+  - enabled: 1
+    path: Assets/Top-Down/Scenes/Section1_2.unity
+    guid: c577cdc9b2923874d994509b0a01f9b6
+  - enabled: 1
+    path: Assets/Scenes/Level1_3.unity
+    guid: f56d98679f480494ea7d437d30a49a5b
+  - enabled: 1
+    path: Assets/Scenes/Level1_3_Cave.unity
+    guid: 9011fa269ef4aa647bbe5f23a42beefa
+  - enabled: 1
+    path: Assets/Scenes/Level1_3_Boss.unity
+    guid: 10bd5badebf5e014d9d7f9136d52cdeb
+  m_configObjects: {}
